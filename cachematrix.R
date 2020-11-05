@@ -42,5 +42,5 @@ c <- c(8,7,7)
 
 B <- rbind(a,b,c)
 B  
-
+B
 cacheSolve(makeCacheMatrix(B))
